@@ -230,7 +230,7 @@ refApp.controller('refCtrl', ['$scope', '$filter', function($scope, $filter) {
 	}, {
 		id: 124,
 		name: ["다같이 만드는", "특별한 날☆"],
-		idol: "北条加蓮_城ケ崎美嘉_遊佐こずえ_호죠카렌_죠가사키미카_유사코즈에"		
+		idol: "北条加蓮_大槻唯_遊佐こずえ_호죠카렌_오오츠키유이_유사코즈에"		
 	}];
 	$scope.q = '';
 
